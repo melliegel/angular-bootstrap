@@ -4,6 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Note: You will need to install angular/cli globally on your machine.
     Run, npm install -g @angular/cli via terminal
 
+## Add node_modules to the directory
+
+Run `npm install`. This will add node-modules to your project directory. Package versions will depend on what is set in package.json file
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4100/`. The app will automatically reload if you change any of the source files.
